@@ -6,6 +6,6 @@ using namespace std;
 // Structure to represent an edge
 struct Edge {
     int u;      // Source vertex
-    int v;     
+    int v;      // Destination vertex
     int weight; 
 };
