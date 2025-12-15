@@ -7,5 +7,5 @@ using namespace std;
 struct Edge {
     int u;      
     int v;     
-    
+    int weight; 
 };
