@@ -5,7 +5,7 @@ using namespace std;
 
 // Structure to represent an edge
 struct Edge {
-         
+    int u;      
         
     
 };
