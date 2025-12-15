@@ -7,5 +7,5 @@ using namespace std;
 struct Edge {
     int u;      // Source vertex
     int v;      // Destination vertex
-    int weight; 
+    int weight; // Weight of the edge
 };
