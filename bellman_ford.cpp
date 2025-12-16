@@ -14,3 +14,12 @@ struct Edge {
 
 
 // Bellman-Ford algorithm function
+void bellmanFord(int V, int src, vector<Edge>& edges) {
+    
+    
+
+   
+    
+
+    
+   }
