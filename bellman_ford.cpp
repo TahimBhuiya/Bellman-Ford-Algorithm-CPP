@@ -19,7 +19,7 @@ void bellmanFord(int V, int src, vector<Edge>& edges) {
     vector<int> dist(V, INT_MAX);
 
     // Distance to source is 0
-    
+    dist[src] = 0;
 
     
    }
