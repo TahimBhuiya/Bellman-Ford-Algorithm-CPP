@@ -16,7 +16,7 @@ struct Edge {
 // Bellman-Ford algorithm function
 void bellmanFord(int V, int src, vector<Edge>& edges) {
     // Distance array: dist[i] will hold the shortest distance from src to i
-    
+    vector<int> dist(V, INT_MAX);
 
    
     
