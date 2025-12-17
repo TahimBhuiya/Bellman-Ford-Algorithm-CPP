@@ -29,7 +29,9 @@ void bellmanFord(int V, int src, vector<Edge>& edges) {
             int w = edge.weight;
 
             // Relaxation step
-            
+            if (dist[u] != INT_MAX && dist[u] + w < dist[v]) {
+                
+            }
         }
     }
 
