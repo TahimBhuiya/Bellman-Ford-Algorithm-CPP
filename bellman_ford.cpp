@@ -22,4 +22,15 @@ void bellmanFord(int V, int src, vector<Edge>& edges) {
     dist[src] = 0;
 
     // Relax all edges V-1 times
-    for (int i = 1; i <= V - 1; i++) {}}
+    for (int i = 1; i <= V - 1; i++) {
+        for (auto edge : edges) {
+            
+            
+            
+
+            
+            
+        }
+    }
+
+ 
