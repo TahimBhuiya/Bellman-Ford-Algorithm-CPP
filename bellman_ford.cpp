@@ -26,7 +26,7 @@ void bellmanFord(int V, int src, vector<Edge>& edges) {
         for (auto edge : edges) {
             int u = edge.u;
             int v = edge.v;
-            
+            int w = edge.weight;
 
             
             
