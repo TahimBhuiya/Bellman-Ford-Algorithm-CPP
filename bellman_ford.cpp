@@ -46,3 +46,5 @@ void bellmanFord(int V, int src, vector<Edge>& edges) {
             return;
         }
     }
+
+    // Print shortest distances
