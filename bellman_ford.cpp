@@ -36,3 +36,10 @@ void bellmanFord(int V, int src, vector<Edge>& edges) {
     }
 
     // Check for negative weight cycles
+    for (auto edge : edges) {
+        
+        
+        
+
+        
+    }
