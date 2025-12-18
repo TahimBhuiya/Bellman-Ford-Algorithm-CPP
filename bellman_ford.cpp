@@ -41,5 +41,8 @@ void bellmanFord(int V, int src, vector<Edge>& edges) {
         int v = edge.v;
         int w = edge.weight;
 
-        
+        if (dist[u] != INT_MAX && dist[u] + w < dist[v]) {
+            
+            
+        }
     }
