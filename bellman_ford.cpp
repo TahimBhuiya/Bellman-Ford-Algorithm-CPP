@@ -51,7 +51,7 @@ void bellmanFord(int V, int src, vector<Edge>& edges) {
     cout << "Shortest distances from source node " << src << ":\n";
     for (int i = 0; i < V; i++) {
         if (dist[i] == INT_MAX)
-            
+            cout << i << ": INF\n";
         
             
     }
