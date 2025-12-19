@@ -53,7 +53,7 @@ void bellmanFord(int V, int src, vector<Edge>& edges) {
         if (dist[i] == INT_MAX)
             cout << i << ": INF\n";
         else
-            
+            cout << i << ": " << dist[i] << "\n";
     }
 }
 
