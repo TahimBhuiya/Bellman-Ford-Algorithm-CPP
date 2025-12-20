@@ -58,4 +58,9 @@ void bellmanFord(int V, int src, vector<Edge>& edges) {
 }
 
 // Main function
-int main() {}
+int main() {
+    int V = 5;  
+    
+
+    
+    }
