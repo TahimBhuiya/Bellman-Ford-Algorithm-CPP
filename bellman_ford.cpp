@@ -64,7 +64,7 @@ int main() {
 
     // List of edges
     vector<Edge> edges = {
-        
+        {0, 1, -1},
         
 
 
