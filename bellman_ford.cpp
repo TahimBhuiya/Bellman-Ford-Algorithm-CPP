@@ -63,4 +63,9 @@ int main() {
     int src = 0; // Source vertex
 
     // List of edges
-    }
+    vector<Edge> edges = {
+        
+        
+
+
+    }}
