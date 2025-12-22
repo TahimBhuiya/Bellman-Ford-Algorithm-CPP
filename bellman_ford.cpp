@@ -10,9 +10,6 @@ struct Edge {
     int weight; // Weight of the edge
 };
 
-
-
-
 // Bellman-Ford algorithm function
 void bellmanFord(int V, int src, vector<Edge>& edges) {
     // Distance array: dist[i] will hold the shortest distance from src to i
