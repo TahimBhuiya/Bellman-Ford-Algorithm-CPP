@@ -77,4 +77,6 @@ int main() {
     // Run Bellman-Ford algorithm
     bellmanFord(V, src, edges);
 
+    return 0;
+
 }
