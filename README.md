@@ -11,3 +11,6 @@ Steps Bellman-Ford follows:
 1. Initializes distances from the source to all vertices.
 2. Relaxes all edges repeatedly (V − 1 times).
 3. Checks for negative weight cycles.
+4. Outputs the shortest distances if no negative cycle exists.
+
+---
