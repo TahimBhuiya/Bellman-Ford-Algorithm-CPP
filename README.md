@@ -16,3 +16,5 @@ Steps Bellman-Ford follows:
 ---
 
 ## 🔧 Features
+
+- **Handles Negative Edge Weights**
