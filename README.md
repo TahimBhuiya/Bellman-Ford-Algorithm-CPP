@@ -9,3 +9,4 @@ Unlike Dijkstra’s algorithm, Bellman-Ford can handle **negative edge weights**
 Steps Bellman-Ford follows:
 
 1. Initializes distances from the source to all vertices.
+2. Relaxes all edges repeatedly (V − 1 times).
