@@ -7,3 +7,5 @@ This C++ program demonstrates the **Bellman-Ford Algorithm**, a graph algorithm 
 Unlike Dijkstra’s algorithm, Bellman-Ford can handle **negative edge weights** and can also detect **negative weight cycles**.
 
 Steps Bellman-Ford follows:
+
+1. Initializes distances from the source to all vertices.
