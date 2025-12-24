@@ -30,6 +30,6 @@ Steps Bellman-Ford follows:
 **Graph Structure (edge list format):**
 
 ```
-
+0 -> 1 (weight -1)
 
 ```
