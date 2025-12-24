@@ -26,3 +26,5 @@ Steps Bellman-Ford follows:
 ---
 
 ## 📋 Example Run
+
+**Graph Structure (edge list format):**
