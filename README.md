@@ -20,3 +20,4 @@ Steps Bellman-Ford follows:
 - **Handles Negative Edge Weights**
 - **Detects Negative Weight Cycles**
 - **Single-Source Shortest Paths**
+- **Edge List Representation**
