@@ -48,7 +48,4 @@ Steps Bellman-Ford follows:
 2: 2
 3: -2
 4: 1
-
-
-
 ```
