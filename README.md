@@ -43,7 +43,7 @@ Steps Bellman-Ford follows:
 **Output (shortest distances from node 0):**
 
 ```
-
+0: 0
 
 
 
