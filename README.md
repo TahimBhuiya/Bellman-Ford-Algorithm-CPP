@@ -39,3 +39,5 @@ Steps Bellman-Ford follows:
 3 -> 1 (weight 1)
 4 -> 3 (weight -3)
 ```
+
+**Output (shortest distances from node 0):**
