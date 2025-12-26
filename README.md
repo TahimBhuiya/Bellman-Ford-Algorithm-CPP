@@ -34,7 +34,7 @@ Steps Bellman-Ford follows:
 0 -> 2 (weight 4)
 1 -> 2 (weight 3)
 1 -> 3 (weight 2)
-
+1 -> 4 (weight 2)
 
 
 
