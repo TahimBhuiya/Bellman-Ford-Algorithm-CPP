@@ -49,3 +49,7 @@ Steps Bellman-Ford follows:
 3: -2
 4: 1
 ```
+
+---
+
+## ⚙ How It Works
