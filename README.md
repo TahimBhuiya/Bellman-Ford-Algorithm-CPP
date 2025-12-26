@@ -31,5 +31,11 @@ Steps Bellman-Ford follows:
 
 ```
 0 -> 1 (weight -1)
+0 -> 2 (weight 4)
+
+
+
+
+
 
 ```
