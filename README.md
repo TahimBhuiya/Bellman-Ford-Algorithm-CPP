@@ -53,3 +53,5 @@ Steps Bellman-Ford follows:
 ---
 
 ## ⚙ How It Works
+
+1. **Initialize Distances**
