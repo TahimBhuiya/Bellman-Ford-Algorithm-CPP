@@ -63,3 +63,4 @@ Steps Bellman-Ford follows:
    - For each edge (u → v), update the distance if a shorter path is found.
 
 3. **Check for Negative Cycles**
+   - If any edge can still be relaxed, a negative cycle exists.
