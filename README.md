@@ -55,4 +55,7 @@ Steps Bellman-Ford follows:
 ## ⚙ How It Works
 
 1. **Initialize Distances**
+
    - Set all distances to infinity except the source node.
+
+2. **Relax All Edges (V - 1 times)**
