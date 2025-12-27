@@ -59,4 +59,7 @@ Steps Bellman-Ford follows:
    - Set all distances to infinity except the source node.
 
 2. **Relax All Edges (V - 1 times)**
+
    - For each edge (u → v), update the distance if a shorter path is found.
+
+3. **Check for Negative Cycles**
