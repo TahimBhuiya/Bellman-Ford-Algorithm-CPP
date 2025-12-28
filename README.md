@@ -72,3 +72,5 @@ Steps Bellman-Ford follows:
 ---
 
 ## 🛠 How to Run
+
+### 1️⃣ Using a local C++ compiler
